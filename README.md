@@ -1,29 +1,19 @@
 # JavaScript Quiz
+Bu, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir JavaScript quiz uygulamasıdır. Kullanıcılara çoktan seçmeli soruları yanıtlama ve yanıtlarına anında geri bildirim sağlama imkanı sunar.
 
-This is a simple JavaScript quiz application built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and provides instant feedback on their answers.
+# Nasıl Oynanır
+Web tarayıcınızda index.html dosyasını açın.
+Başlamak için "Quiz'i Başlat" düğmesine tıklayın.
+Her soruyu sağlanan seçeneklerden birini seçerek yanıtlayın.
+Bir sonraki soruya geçmek için "Sonraki Soru" düğmesine tıklayın.
+Tüm soruları yanıtladıktan sonra, nihai puanınızı görüntüleyin.
+# Kullanılan Teknolojiler
+HTML
+CSS
+JavaScript
 
+# Nasıl Katkıda Bulunulur
+Bu projeye katkıda bulunmak istiyorsanız, depoyu çatallayabilir ve istediğiniz değişiklikleri yapabilirsiniz. İşiniz bittiğinde, yaptığınız değişiklikleri açıklayan bir çekme isteği gönderin.
 
-
-## How to Play
-
-1. Open `index.html` in your web browser.
-2. Click the "Start Quiz" button to begin.
-3. Answer each question by selecting one of the provided options.
-4. Click the "Next Question" button to move to the next question.
-5. After answering all questions, view your final score.
-
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-## How to Contribute
-
-If you'd like to contribute to this project, you can fork the repository and make any desired changes. Once you're done, submit a pull request explaining the changes you've made.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
-
+# Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın.
